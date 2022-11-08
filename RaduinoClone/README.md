@@ -4,10 +4,10 @@
  
 Each subdirectory is for a single MCU architecture:
 
-- Nano-IOT-BLE-RPConnect-SingleBoard - A single board solution target at smaller systems (i.e. V6) where a second auxilary processor is not an option.
-- Nano-IT-BLE-RPConnect with I2C - Design supporting a second processor for S-Meter, SWR, etc.
-- Teensy 4 - Design for the Teensy 4.0 chip. Includes I2C connection.
-- RaspberryPi Pico - Supports the Raspberry Pi Pico - This is an initial effort and requires significant software changes to the KD8CEC software.
+- Nano-IOT-BLE-RPConnect-SingleBoard - A single board solution target at smaller systems (i.e. V6) where a second auxilary processor is not an option. The S-meter function has not been checked.
+- Nano-IT-BLE-RPConnect with I2C - Design supporting a second processor for S-Meter, SWR, etc. This design appears to work but the I2C and the onboard S-meter not checked.
+- Teensy 4 - Design for the Teensy 4.0 chip. Includes I2C connection. Teensu appears to work but requires more testing. The I2C and onboard S-meter has not yet been tested.
+- RaspberryPi Pico - Supports the Raspberry Pi Pico - This is an initial effort and requires significant software changes to the KD8CEC software. This will not work until I get around to moving the encoder off of the analog pins. (Pico does not have enough Analog pins)/
 
 
 Within each MCU directory, there are the following subdirectories:
