@@ -1,6 +1,6 @@
 # Raduino V5 and V6
-# IMPORTANT THIS HAS NOT YET BEEN TESTED
-# DO NOT USE
+# IMPORTANT THIS HAS NOT YET BEEN FULLY TESTED
+# USE AT YOUR OWN RISK
  
 Each subdirectory is for a single MCU architecture:
 
