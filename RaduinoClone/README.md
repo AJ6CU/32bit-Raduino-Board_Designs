@@ -1,6 +1,8 @@
 # Raduino V5 and V6
-# IMPORTANT THIS HAS NOT YET BEEN FULLY TESTED
-# USE AT YOUR OWN RISK
+# IMPORTANT ALTHOUGH THESE BOARDS ARE ELECTRICALLY COMPATIBLE WITH v6, and they mechanically fit when you are using a Nextion, they sit too low to the tradional 16x2 LCD (the power switch and the LCD collide. If you want to use this board with an LCD, then you will to install an additional header between the Raduino and the motherboard (see photo below). This is not very practical and I will create a set of Raduinos that are higher and that will not have this problem in the future.
+
+![headerpinsreqruied](https://user-images.githubusercontent.com/70183884/205141453-11581cf2-e115-446f-8bd5-954d1fc6ecee.jpg)
+
  
 Each subdirectory is for a single MCU architecture:
 
