@@ -1,0 +1,57 @@
+﻿Date:,1/23/2023 8:02,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Component Count:,29,,,,,,
+,,,,,,,
+Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor,Part#
+,,,,,,,
+"C1, C2, C4, C5, C6, ",5,0.1u,C_Small,Capacitor_SMD:C_1206_3216Metric,"Unpolarized capacitor, small symbol",Amazon,https://www.amazon.com/gp/product/B06XDHC93D
+,,,,,,,
+"C3, ",1,0.3nF,C_Small,Capacitor_SMD:C_1206_3216Metric,"Unpolarized capacitor, small symbol",,
+,,,,,,,
+"C7, ",1,0.1uF,C_Polarized_Small_US,Capacitor_SMD:C_1206_3216Metric,"Polarized capacitor, small US symbol",,
+,,,,,,,
+"C8, ",1,0.33uF,C_Polarized_Small_US,Capacitor_SMD:C_1206_3216Metric,"Polarized capacitor, small US symbol",,
+,,,,,,,
+"D1, ",1,1N4148TR,1N4148,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,"100V 0.15A standard switching diode, DO-35",Digikey,1n4148VSCT-ND
+,,,,,,,
+"JP1, ",1,MCU Volts,Jumper_3_Open,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,"Jumper, 3-pole, both open",,
+,,,,,,,
+"JP2, ",1,RX Select,Jumper_3_Open,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,"Jumper, 3-pole, both open",,
+,,,,,,,
+"JP3, ",1,TX Select,Jumper_3_Open,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,"Jumper, 3-pole, both open",,
+,,,,,,,
+"P1, ",1,Controls,Conn_01x08,MyLibrary:Molex_KK-254_AE-6410-08A_1x08_P2.54mm_Vertical-reversed,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Amazon,https://www.amazon.com/gp/product/B09P3WBDYJ
+,,,,,,,
+"P2, ",1,LCD Display,Conn_01x16,Connector_PinSocket_2.54mm:PinSocket_1x16_P2.54mm_Vertical,"Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)",,
+,,,,,,,
+"P3, ",1,Oscillators,Conn_01x18,MyLibrary:PinHeadere_1x18_P2.54mm_Horizontal,"Generic connector, single row, 01x18, script generated (kicad-library-utils/schlib/autogen/connector/)",,
+,,,,,,,
+"P5, ",1,Nextion,Conn_01x04,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",,
+,,,,,,,
+"P7, ",1,VolHi Input,Conn_01x02,Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",,
+,,,,,,,
+"R1, ",1,10k,R_Small_US,Resistor_SMD:R_1206_3216Metric,"Resistor, small US symbol",Amazon,https://www.amazon.com/gp/product/B07G4YJCNC
+,,,,,,,
+"R2, ",1,1K,R_Small_US,Resistor_SMD:R_1206_3216Metric,"Resistor, small US symbol",,
+,,,,,,,
+"R3, ",1,4.7k,R_Small,Resistor_SMD:R_1206_3216Metric,"Resistor, small symbol",,
+,,,,,,,
+"R13, R14, ",2,2.2k,R_Small,Resistor_SMD:R_1206_3216Metric,"Resistor, small symbol",,
+,,,,,,,
+"RV1, ",1,10k,R_Potentiometer,Potentiometer_THT:Potentiometer_Vishay_T73YP_Vertical,Potentiometer,Amazon,https://www.amazon.com/gp/product/B082ZVSR8K/
+,,,,,,,
+"U1, ",1,Arduino_Nano_v3.x,Arduino_Nano_v3.x,MyLibrary:Arduino_Nano-upside-down,"Nano, Nano Every, Nano IOT, Nano BLE, Nano RP2040",Various,
+,,,,,,,
+"U2, ",1,Si5351A-B-GT,Si5351A-B-GT,Package_SO:MSOP-10_3x3mm_P0.5mm,"I2C Programmable Any-Frequency CMOS Clock Generator, MSOP-8",Digikey,336-2399-5-ND
+,,,,,,,
+"U3, ",1,LM358DR,LM358_DFN,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,"Low-Power, Dual Operational Amplifiers, DFN-8",Digikey,LM358DR2GOSCT-ND
+,,,,,,,
+"U4, ",1,CAT24C256,CAT24C256,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,"256 kb CMOS Serial EEPROM, DIP-8/SOIC-8/TSSOP-8/DFN-8",Digikey,CAT24C256WI-GT30SCT-ND
+,,,,,,,
+"U5, ",1,LM7805_TO220,LM7805_TO220,Package_TO_SOT_THT:TO-220-3_Vertical,"Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220",Amazon,https://www.amazon.com/gp/product/B01MSE2R8C
+,,,,,,,
+"Y1, ",1,25M,Crystal_Small,Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm,"Two pin crystal, small symbol",Digikey,644-1042-1-ND
