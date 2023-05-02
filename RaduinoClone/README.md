@@ -18,7 +18,7 @@ Within each processor directory, there are two subdirectories:
 
 And finally each of these directories include:
 
-- BOM basic bill of materials
+- BOM - basic bill of materials
 - Gerbers - this directory includes a zip file that you should be able to upload to
             your favorite Fab house.
 - Images - conceptual 3D models of the board.
@@ -26,7 +26,7 @@ And finally each of these directories include:
 - Schematic - pdf version of the design.
 
 
-There is absolutely no warranty here. Use this at your own risk!
+These designs have been sent to the the PCB manufacturer and as of May 2nd, not been tested. There is absolutely no warranty here. Use this at your own risk!
 
 
 73
