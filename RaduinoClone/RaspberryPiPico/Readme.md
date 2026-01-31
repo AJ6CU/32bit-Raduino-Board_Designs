@@ -1,1 +1,1 @@
-test
+Latest version (but untested as of January 31, 2026) is V10. It includes an Optical isolation of TX/RX signal and conversion to a full 3.3V design. Prior version, the Display header was not compatible with the standard V6 2.8 TFT S{I screen. This version should fix this. There is no V10 345 Raduino version.
