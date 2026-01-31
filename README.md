@@ -1,4 +1,4 @@
-# An uBitx Raduino for Next Generation Nano, Teensy and PICO
+# An uBitx Raduino for Next Generation Nano, Teensy, RPI PICO and RPI Zero 2W
 
 
 ![theheard](https://user-images.githubusercontent.com/70183884/213938608-a9790997-cc9b-42be-b50f-ee695d674e6e.png)
@@ -16,9 +16,10 @@ The purpose of these boards, are to remove this contraint. Currently the followi
   5. Arduino RP2040
   6. Teensy 4.0
   7. Raspberry Pi Pico
+  8. Raspberry Pi Zero 2W
   
 
-These boards support both V5 and V6. V6 boards require a larger header and the installation of a resister.
+These boards support both V5 (except for RPI Pico and Zero) and V6. V6 boards require a larger header and the installation of a resister.
 
 73
 Mark
